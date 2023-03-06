@@ -68,13 +68,13 @@ time.sleep(2)
 
 
 ## creating a list where the descriptions will be stored
-disc_list = []
+desc_list = []
 
-## each page show us some jobs, sometimes show 25, others 13 or 21 ¯\_(ツ)_/¯
+## each page show us some jobs, sometimes show 25, others 13 or 21
 ## with this knowledge I created a loop that will check how many jobs the page is listing
 ## Then 
 
-## linkedin show us 40 jobs pages, then the line below will repeat 40 times
+## linkedin in general displays 40 jobs pages, then we loop over 40 times to get all the job profiles. 
 for i in range(1,41):
     ## click button to change the job list
     driver.find_element('xpath',f'//button[@type="button" and @aria-label="Page {i}"]').click()
@@ -103,10 +103,10 @@ for i in range(1,41):
         #get text
         soup = BeautifulSoup(job_desc.get_attribute('outerHTML'), 'html.parser')
         ## add text to list
-        disc_list.append(soup.text)
+        desc_list.append(soup.text)
 
 
 # Creating a Dataframe with list
-df = pd.DataFrame(disc_list)
+df = pd.DataFrame(desc_list)
 
 df.to_csv('job_desc.csv')
