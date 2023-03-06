@@ -15,8 +15,8 @@ from wordcloud import WordCloud, STOPWORDS
 import matplotlib.pyplot as plt
 
 ## Linkedin ID and PASSWORD
-email = "kpal002@ucr.edu"
-password = "Anupamroy3#"
+email = "email"
+password = "password"
 
 ## Write here the job position and local for search
 position = "Machine Learning Engineer"
