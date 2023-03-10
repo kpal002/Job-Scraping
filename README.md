@@ -17,7 +17,11 @@ To get some insights on the above questions, I scrapped through the relevant job
 
 - Among the most common python libraries, visualization tools like tableau and Power Bi are more essential for jobs in data science. On the other hand, as expected, ML libraries like Tensorflow and Pytorch are must have skills for ML engineers.
  
-![](https://github.com/kpal002/Job-Scrapping/blob/b1f333505cd56f7e96004aee13c6b0a804e51e65/libraries.png)
+![](https://github.com/kpal002/Job-Scrapping/blob/f4f81c93427aaa9db880d76a541155af56d54d94/libraries.png)
+
+- Here are the technical keywords, which are often emphasized while tailoring resumes and cover letters to specific job profiles.
+
+
 
 
 
