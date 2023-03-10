@@ -11,10 +11,13 @@ To get some insights on the above questions, I scrapped through the relevant job
 
 ## Here are few of the insights from Data Scientist and Machine Learning Engineer job profiles 
 
-The most common languages used
+- For the most commonly used programming languages, python remains the top choice. A database query language like SQL is more prevelant for Data Science jobs whereas C/C++ is more common ML jobs.
 
 ![](https://github.com/kpal002/Job-Scrapping/blob/aba81568f47e6d5797ad92886c0d862fa1c9847b/languages.png)
 
+- Among the most common python libraries, visualization tools like tableau and Power Bi are more essential for jobs in data science. On the other hand, as expected, ML libraries like Tensorflow and Pytorch are must have skills for ML engineers.
+ 
+![](https://github.com/kpal002/Job-Scrapping/blob/aba81568f47e6d5797ad92886c0d862fa1c9847b/libraries.png)
 
 
 
