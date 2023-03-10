@@ -23,7 +23,7 @@ To get some insights on the above questions, I scrapped through the relevant job
 
 ![](https://github.com/kpal002/Job-Scrapping/blob/38cb2d08399db50050261d75e7de37ac2861a28e/keywords.png)
 
-![]()
+![](https://github.com/kpal002/Job-Scrapping/blob/dae5b27cfa5e1996fbd76fb4c0095b433c65fef9/keywords2.png)
 
 
 
