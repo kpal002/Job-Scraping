@@ -13,6 +13,8 @@ To get some insights on the above questions, I scrapped through the relevant job
 
 The most common languages used
 
+[](languages.png)
+
 
 
 
