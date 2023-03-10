@@ -7,9 +7,9 @@ What are the requirements for the category of jobs I am looking for?
 Which keywords to include in the resume?
 What kind of soft skills are mentioned in the job profiles?
 
-I have scrapped almost 1000 job descriptions each for Data Scientist and Machine Learning Engineer/Scientist positions which are available inside the dataset folder.
+I have scraped almost 1000 job descriptions each for Data Scientist and Machine Learning Engineer/Scientist positions which are available inside the dataset folder.
 
-To get some insights on the above questions, I scrapped through the relevant job profiles from LinkedIn and tried to look for some meaningful insights. 
+To get some insights on the above questions, I scraped through the relevant job profiles from LinkedIn and tried to look for some meaningful insights. 
 
 ## Here are few of the insights from Data Scientist and Machine Learning Engineer job profiles 
 
