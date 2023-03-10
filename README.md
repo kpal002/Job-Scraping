@@ -13,7 +13,7 @@ To get some insights on the above questions, I scrapped through the relevant job
 
 The most common languages used
 
-[](https://github.com/kpal002/Job-Scrapping/blob/aba81568f47e6d5797ad92886c0d862fa1c9847b/languages.png)
+![](https://github.com/kpal002/Job-Scrapping/blob/aba81568f47e6d5797ad92886c0d862fa1c9847b/languages.png)
 
 
 
