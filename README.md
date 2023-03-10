@@ -21,7 +21,9 @@ To get some insights on the above questions, I scrapped through the relevant job
 
 - Here are the technical keywords, which are often emphasized while tailoring resumes and cover letters to specific job profiles.
 
+![](https://github.com/kpal002/Job-Scrapping/blob/38cb2d08399db50050261d75e7de37ac2861a28e/keywords.png)
 
+![]()
 
 
 
